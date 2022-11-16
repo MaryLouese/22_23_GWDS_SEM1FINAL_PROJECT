@@ -1,11 +1,13 @@
 body {
-    background-color: blue;
+    background-color: rgb(238, 239, 184);
 }
 
 header {
     display: flex;
     justify-content:space-evenly;
+    align-items: center;
     background-color: lightgoldenrodyellow;
+    padding: 20px 0;
 
 }
 
@@ -20,7 +22,7 @@ h1 {
 h2 {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 4em;
-    text-align: center;
+    text-align: left;
 }
 
 p {
@@ -36,4 +38,12 @@ button {
     font-size: 2em;
     padding: 10px;
     margin: 3px 0px;
+}
+
+section {
+    background-color: lightblue;
+}
+
+.type-section {
+    background-color: darkcyan;
 }
