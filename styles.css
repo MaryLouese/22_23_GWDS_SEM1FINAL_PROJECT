@@ -44,11 +44,10 @@ section {
     background-color: lightblue;
 }
 
-.type-container {
+.type-section {
     background-color:rgb(123, 193, 48);
-    /* padding: 20px 0px; */
+    padding: 20px 0px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
-.type-img {
-
-}
