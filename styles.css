@@ -44,6 +44,11 @@ section {
     background-color: lightblue;
 }
 
-.type-section {
-    background-color: darkcyan;
+.type-container {
+    background-color:rgb(123, 193, 48);
+    /* padding: 20px 0px; */
+}
+
+.type-img {
+
 }
